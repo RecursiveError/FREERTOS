@@ -1,0 +1,16 @@
+build/
+sdkconfig
+sdkconfig.old
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/settings.json
+.vscode/tasks.json
+.devcontainer/devcontainer.json
+.devcontainer/Dockerfile
+main/CMakeFiles/cmake.check_cache
+main/CMakeFiles/CMakeOutput.log
+main/CMakeFiles/3.24.0/CMakeSystem.cmake
+main/CMakeFiles/git-data/grabRef.cmake
+main/CMakeFiles/git-data/HEAD
+main/CMakeFiles/git-data/head-ref
+main/CMakeCache.txt

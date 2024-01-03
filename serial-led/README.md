@@ -1,0 +1,2 @@
+# serial_led
+"Simple example project of QUEUES in freeRTOS + ESP=IDF. The project consists of two tasks: one for receiving information via serial (and echoing it), and if it is a number, sending it to the 'blink_led' task. The 'blink_led' task is responsible for changing the blink speed based on the information passed via QUEUE and returning whether the operation failed or not.
